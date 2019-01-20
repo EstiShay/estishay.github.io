@@ -1,0 +1,24 @@
+body {
+    background-image: url("chinese_garden_tile_crop.jpeg");
+    background-size: cover;
+    opacity: 0.85;
+    font-family: 'Noto Serif', serif;
+}
+
+.starting {
+    background-color: white;
+    padding: 40px;
+    width: 50%;
+    margin: auto;
+    margin-top: 10em;
+    border-radius: 6px;
+    opacity: 1;
+    color: black;
+    text-align: center;
+    border-radius: 9px;
+}
+
+.twitter {
+    height: 20px;
+    width: 20px;
+}
