@@ -40,6 +40,6 @@
  body {
     background-image: url("chinese_garden_tile_crop.jpeg");
     background-size: cover;
-    opacity: 0.85;
+    opacity: .93;
     font-family: 'Noto Serif', serif;
 } 
