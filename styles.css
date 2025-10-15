@@ -11,7 +11,7 @@
         border-radius: 9px;
     }
 }
-@media screen and (min-width: 501px) and (max-width: 750px) { 
+@media screen and (min-width: 501px) and (max-width: 750px) {
     .starting {
         background-color: white;
         padding: 2.5em;
@@ -42,11 +42,24 @@ body {
     background-size: cover;
     opacity: .93;
     font-family: 'Noto Serif', serif;
-    a {
-        color: "#265A87"
-        }
+}
+a {
+    color: "#295e8c";
+    text-decoration: underline;
 }
 .community {
-    text-align: start;
     padding: 0 3em;
+}
+ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    display: block;
+    margin-block-start: 1em;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+.list-inline {
+    padding-left: 0;
+    list-style: none;
+    margin-left: -5px;
 }
